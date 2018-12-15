@@ -16,5 +16,5 @@ Concepts covered:
 ## Technologies Used
 - SQL
 - Python
-- Libraries: sqlalchemy, pandas, glob, json, os
+- Libraries: sqlalchemy, pandas, glob
 - Jupyter Notebooks
