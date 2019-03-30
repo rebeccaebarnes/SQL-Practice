@@ -1,5 +1,5 @@
 # SQL Lessons
-This course work was completed as part of the materials provided in Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
+This course work was completed as part of the materials provided in Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002). (These materials are now covered in the [Programming for Data Science Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)) Some components are also covered in this free course [SQL for Data Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198). 
 
 ## Overview
 The material progresses from basic SQL syntax to advanced usage. The material uses an imagined database for a paper company Parch & Posey. All queries were completed using this database within a Jupyter notebook to facilitate note taking. 
